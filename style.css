@@ -1,0 +1,113 @@
+.font1 {
+  font-family: "Open Sans", sans-serif;
+}
+
+.font2 {
+  font-family: "Raleway", sans-serif;
+}
+
+body {
+  color:#212121;
+  font-size: 14px;
+  min-width: 280px;
+  background-color: #F5F5F5;
+  overflow-x: hidden;
+  text-align: center;
+  min-height: 595px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+h2 {
+  font-family: "Raleway", sans-serif;
+  font-size: 36px;
+  line-height: 42px;
+  font-weight: 400;
+  text-align: center;
+  text-transform: uppercase;
+  color: #212121;
+  margin-top: 80px;
+}
+
+.line {
+  border-top-color: #E72424;
+  border-top-style: solid;
+  border-top-width: 1px;
+  height: 1px;
+  width: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 34px;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  line-height: 19px;
+  font-weight: 400;
+  text-align: center;
+  color: #86878B;
+  margin-top: 36px;
+}
+
+table {
+  display: inline-table;
+  margin: 45px 20px 20px 20px;
+
+}
+
+.basic {
+  height: 50px;
+  width: 340px;
+  background-color: #333333;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  color: #FFFFFF;
+  font-size: 20px;
+  line-height: 27px;
+  font-weight: 700;
+}
+
+.price {
+  height: 100px;
+  width: 340px;
+  background-color: #333333;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  color: #FFFFFF;
+  font-size: 35px;
+  line-height: 41px;
+  font-weight: 900;
+}
+
+.free {
+  height: 50px;
+  width: 340px;
+  background-color: #333333;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  color: #cccdd1;
+  font-size: 14px;
+  line-height: 19px;
+  font-weight: 600;
+  
+}
+
+.space {
+  height: 40px;
+  width: 340px;
+  background-color: #FFFFFF;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  color: #86878B;
+  font-size: 14px;
+  line-height: 19px;
+  font-weight: 400;
+}
+
+.table_center {
+  position: relative;
+  bottom: 20px;
+}
+  
